@@ -1,8 +1,8 @@
 ### Olá, pessoal✌ Boas-vindas ao meu perfil!
 
 - Estudante de Ciência da computação no Centro Universitário IBMR
-- Atualmente estou aprendendo C
-- email: contatorodrigoiamim@gmail.com
+- Atualmente aprendendo C
+
  
  <div>
   <a href="https://github.com/RodrigoIamim">
