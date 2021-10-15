@@ -1,8 +1,5 @@
 ### Olá, pessoal✌ Boas-vindas ao meu perfil!
 
-- Estudante de Ciência da computação no Centro Universitário IBMR
-- Atualmente aprendendo C
-
  
  <div>
   <a href="https://github.com/RodrigoIamim">
