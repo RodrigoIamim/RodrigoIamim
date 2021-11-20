@@ -5,8 +5,7 @@
   <a href="https://github.com/RodrigoIamim">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoIamim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoIamim&layout=compact&langs_count=7&theme=dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoIamim
-&layout=compact&langs_count=7&theme=dracula"/>
+   
 </div>
   <div style="display: inline_block"><br>
    <img alt="c" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
